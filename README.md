@@ -1,4 +1,5 @@
 # Run Buddy
+Michael B Hawk
 
 ## Purpose
 A website that offers fitness training services.
